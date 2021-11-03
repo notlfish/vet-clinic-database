@@ -35,7 +35,7 @@ This task involved auditing the database of a VET CLINIC and improving the perfo
 👤 **Lucas Ferrari Soto**
 - GitHub: [@notlfish](https://github.com/notlfish)
 - Twitter: [@LucasFerrariSo1](https://twitter.com/LucasFerrariSo1)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/lucas-ferrari-soto/) (editado) 
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/lucas-ferrari-soto/)
 
 ## 🤝 Contributing
 
